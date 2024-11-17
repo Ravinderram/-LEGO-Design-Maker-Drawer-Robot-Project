@@ -15,10 +15,10 @@ LEGO Mindstorms or similar LEGO robotics kit.
 Motors and gears for precise control of movement.
 Pen holder mechanism to hold and maneuver a drawing tool.
 Baseplate or drawing surface for stability during operation.
-# Programming:
+## Programming:
 
 Uses a LEGO-compatible programming platform such as the LEGO Mindstorms EV3 software, Scratch, or Python (via EV3Dev).
 Commands are sent to control the robot's arm and wheels for drawing smooth curves or sharp angles.
-# Mechanics:
+## Mechanics:
 The robot uses a combination of rotational and linear movements to create designs.
 Gears and linkages ensure smooth and accurate control of the pen's position.
