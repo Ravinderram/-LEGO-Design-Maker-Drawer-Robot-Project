@@ -21,3 +21,4 @@ The LEGO Design Maker Drawer Robot is a creative and innovative project built us
 ## Mechanics:
 - The robot uses a combination of rotational and linear movements to create designs.
 - Gears and linkages ensure smooth and accurate control of the pen's position.
+## Thank You 😊
