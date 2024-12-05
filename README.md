@@ -1,6 +1,7 @@
 # LEGO Design Maker Drawer Robot Project
 
 The LEGO Design Maker Drawer Robot is a creative and innovative project built using LEGO robotics components. This robot is designed to function as an automated drawing assistant, capable of creating unique designs or patterns based on user input or pre-programmed instructions. The project combines mechanical design, robotics, and programming to deliver an engaging and functional tool for artistic or educational purposes.
+![photo-collage png](https://github.com/user-attachments/assets/731a9db2-f9db-423b-9d26-7fec8bafa5bc)
 
 # Key Features
 - Automated Drawing: The robot can draw designs, shapes, or patterns on paper with precision.
@@ -15,7 +16,7 @@ The LEGO Design Maker Drawer Robot is a creative and innovative project built us
 - Pen holder mechanism to hold and maneuver a drawing tool.
 - Baseplate or drawing surface for stability during operation.
 ## Programming:
-- Uses a LEGO-compatible programming platform such as the LEGO Mindstorms EV3 software, Scratch, or Python (via EV3Dev).
+- Uses a LEGO-compatible programming platform such as the LEGO Mindstorms EV3 software and  Scratch (via EV3Dev).
 - Commands are sent to control the robot's arm and wheels for drawing smooth curves or sharp angles.
 ## Mechanics:
 - The robot uses a combination of rotational and linear movements to create designs.
